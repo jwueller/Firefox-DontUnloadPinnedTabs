@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Don't Unload Pinned Tabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stops Firefox from unloading (discarding) pinned tabs under low memory, so essential web apps (e.g. calendar, email, instant messenger, etc.) are always accessible and keep sending notifications.",
   "icons": {
     "48": "icon.svg",
